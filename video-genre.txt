@@ -1,1 +1,1 @@
-["science","math","science"]
+["science","math","science","math","math","tech"]
